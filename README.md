@@ -4,16 +4,19 @@ A simple python script to analyze and visualize weekly rainfall data. The script
 
 ## Getting Started
 1. Clone the repository
-
-```$ git clone https://github.com/<your-username>/rainfall-analysis.git```
+```
+$ git clone https://github.com/<your-username>/rainfall-analysis.git
+```
 
 2. Install the required libraries
-
-```$ pip install -r requirements.txt```
+```
+$ pip install -r requirements.txt
+```
 
 3. Run the script
-
-```$ python main.py```
+```
+$ python main.py
+```
 
 4 .Follow the on-screen instructions to enter the daily rainfall data.
 5.The script will display the calculated min, max, mean, and standard deviation and also save the generated graph in the "generated_image" folder.
