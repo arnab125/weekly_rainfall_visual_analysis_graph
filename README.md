@@ -5,7 +5,7 @@ A simple python script to analyze and visualize weekly rainfall data. The script
 ## Getting Started
 1. Clone the repository
 ```
-$ git clone https://github.com/<your-username>/rainfall-analysis.git
+$ git clone https://github.com/arnab125/rainfall-analysis.git
 ```
 
 2. Install the required libraries
@@ -44,7 +44,7 @@ $ python main.py
 
 
 
-## Sample Image
+## Sample Image Generated
 ![Sample Image](https://github.com/arnab125/arnab125-weekly_rainfall_visual_analysis_graph/blob/main/sample_image/figure_2023-01-12_07-36-35.png)
 
 
