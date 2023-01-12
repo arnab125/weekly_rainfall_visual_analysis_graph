@@ -95,3 +95,10 @@ def show_result(mean,standard_deviation):
 show_result(mean,standard_deviation)
 visual()
 
+#write a readme file for this project
+
+
+
+
+
+
