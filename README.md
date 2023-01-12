@@ -1,6 +1,16 @@
-# Arnab Tasnim Pranto
+# Rainfall Analysis
 
-A little bit about myself and my background.
+A simple python script to analyze and visualize weekly rainfall data. The script takes user inputs for daily rainfall and calculates the min, max, mean and standard deviation of the data. It also generates a bar chart with the calculated values annotated on it, and saves the chart in a folder called "generated_image" with a unique timestamp.
+
+## Getting Started
+1. Clone the repository
+```$ git clone https://github.com/<your-username>/rainfall-analysis.git
+```
+2. Install the required libraries
+```$ pip install -r requirements.txt
+```
+
+
 
 ## Skills
 - Programming languages: (e.g. Python, JavaScript, C++, C)
