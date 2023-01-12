@@ -83,7 +83,7 @@ def visual():
     now = datetime.datetime.now()
     current = now.strftime("%Y-%m-%d_%H-%M-%S")
     # save the figure in the generated_image folder
-    file_name = f"figure{current}.png"
+    file_name = f"figure_{current}.png"
     plt.savefig(folder_name + '/' + file_name, dpi=300)
 
     plt.show()
