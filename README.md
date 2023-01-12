@@ -4,47 +4,45 @@ A simple python script to analyze and visualize weekly rainfall data. The script
 
 ## Getting Started
 1. Clone the repository
-```$ git clone https://github.com/<your-username>/rainfall-analysis.git
-```
+
+```$ git clone https://github.com/<your-username>/rainfall-analysis.git```
+
 2. Install the required libraries
-```$ pip install -r requirements.txt
-```
+
+```$ pip install -r requirements.txt```
+
+3. Run the script
+
+```$ python main.py```
+
+4 .Follow the on-screen instructions to enter the daily rainfall data.
+5.The script will display the calculated min, max, mean, and standard deviation and also save the generated graph in the "generated_image" folder.
 
 
 
-## Skills
-- Programming languages: (e.g. Python, JavaScript, C++, C)
-- Frameworks and technologies: (e.g. React, Git)
-- Other skills: (e.g. machine learning, data analysis)
+## Prerequisites
+- Python 3.6 or above
+- Matplotlib, os and datetime python libraries.
 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnab125&show_icons=true)
+## Built With
+- Python 3.6
+- Matplotlib - Python library for data visualization
+- os - OS library for file and directory operations.
+- datetime - Datetime library for python.
 
 
-## Skills
-
-### Programming languages
-- ![Python](https://img.icons8.com/color/48/000000/python.png)  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)  ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
-
-### Web development
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)  ![CSS](https://img.icons8.com/color/48/000000/css3.png)  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  ![React](https://img.icons8.com/color/48/000000/react-native.png) 
-
-### Tools
-- ![Git](https://img.icons8.com/color/50/000000/git.png)
+## Notes
+- The script will only accept numerical values for the daily rainfall data.
+- The file name will be in the format of 'figure_yyyy-mm-dd_hh-mm-ss.png'.
+- The graph will be saved in the dpi of 300.
 
 
 
 
 
-## Profiles
-- [HackerRank](https://www.hackerrank.com/arn125) - My HackerRank Profile 
-- [CodeForces](https://codeforces.com/profile/arn125) - My CodeForces Profile 
-- [LeetCode](https://leetcode.com/arn125/) - My LeetCode Profile 
+## Sample Image
+![Sample Image](https://github.com/arnab125/arnab125-weekly_rainfall_visual_analysis_graph/blob/main/sample_image/figure_2023-01-12_07-36-35.png)
 
-## Acknowledgements
-- Thanks to (Phitron) for the inspiration and guidance 
 
-## Contact Me
-- Email: arnabtasnimpranto@gmail.com
 
